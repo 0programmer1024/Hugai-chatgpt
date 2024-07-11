@@ -17,6 +17,7 @@
         <module>sdk-spark</module>
         <module>sdk-baidu</module>
         <module>sdk-ollama</module>
+        <module>sdk-qwen</module>
     </modules>
 
     <properties>
